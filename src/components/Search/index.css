@@ -1,0 +1,15 @@
+.Search {
+  background-color: aliceblue;
+  width: 40%;
+  margin: 1rem auto;
+  padding: 1rem;
+  border: 6px solid #eee;
+}
+
+.Search input {
+  border: none;
+  padding: 5px;
+  border-radius: 6px;
+  margin-left: 5px;
+}
+/*# sourceMappingURL=index.css.map */

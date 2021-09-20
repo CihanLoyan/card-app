@@ -1,11 +1,13 @@
 .Search{
-    background-color: #ccc;
-    width: fit-content;
+    background-color: aliceblue;
+    width: 40%;
     margin: 1rem auto;
     padding: 1rem;
+    border: 6px solid #eee;
     input{
         border: none;
         padding: 5px;
         border-radius: 6px;
+        margin-left: 5px;
     }
 }
