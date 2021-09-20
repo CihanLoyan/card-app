@@ -31,7 +31,6 @@ function App() {
   }
   return (
     <div className="App">
-      {searchTerm}
       <Search onChange={handleSearch}/>
       <List card={Dummy_Card}/>
     </div>
